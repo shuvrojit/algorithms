@@ -1,0 +1,13 @@
+* I'm trying to implement algorithms using different programming languages.
+
+** Currrently the languages are:
+ - Python
+ - Typescript
+ - Go
+
+
+** Algorithms that are alreay included:
+ - Binary Search.
+
+
+ *** Anyone is welcome to contribute.
