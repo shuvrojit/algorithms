@@ -1,6 +1,9 @@
 {
+    "scripts": {
+        "test": "vitest"
+    },
   "devDependencies": {
     "ts-node": "^10.9.1",
-    "vitest": "^0.30.1"
+    "vitest": "^0.31.4"
   }
 }
