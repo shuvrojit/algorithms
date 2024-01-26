@@ -32,6 +32,4 @@ describe("Array transform map tests", () => {
     expect(map(arr, addNone)).toEqual([2,2,2])
   })
 
-
-
 })

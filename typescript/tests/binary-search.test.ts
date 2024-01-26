@@ -7,7 +7,7 @@ describe("Binary Search", () => {
     it("should return a number type", () => {
         assert.isNumber(result)
     })
-    it("should return 1", () => {
+    it("should return 3", () => {
 
         expect(result).toEqual(3)
     })
