@@ -8,6 +8,11 @@
 
 ** Algorithms that are alreay included:
  - Binary Search.
+ - Linear Search
+ - leetcode #1 Two sum
+ - Two crystal balls problem
+ - map function
+ - filter function
 
 
  *** Anyone is welcome to contribute.
